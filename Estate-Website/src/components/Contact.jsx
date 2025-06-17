@@ -1,5 +1,4 @@
 import React from "react";
-import App from "../App.jsx";
 import {toast} from "react-toastify";
 import {motion} from "framer-motion";
 

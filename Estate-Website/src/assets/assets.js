@@ -5,7 +5,7 @@ import menu_icon from './menu_icon.svg'
 import star_icon from './star_icon.svg'
 import left_arrow from './left_arrow.svg'
 import right_arrow from './right_arrow.svg'
-import header_img from '../../public/header_img.png'
+import header_img from './header_img.png'
 import brand_img from './brand_img.png'
 import project_img_1 from './project_img_1.jpg'
 import project_img_2 from './project_img_2.jpg'
@@ -35,45 +35,45 @@ export const assets = {
 
 export const projectsData = [
     {
-        title: "Skyline Haven",
-        price: "$2,50,000",
-        location: "California",
-        image: project_img_1
+      title: "Skyline Haven",
+      price: "$2,50,000",
+      location: "California",
+      image: project_img_1
     },
     {
-        title: "Vista Verde",
-        price: "$2,50,000",
-        location: "San Francisco",
-        image: project_img_2
+      title: "Vista Verde",
+      price: "$2,50,000",
+      location: "San Francisco",
+      image: project_img_2
     },
     {
-        title: "Serenity Suites",
-        price: "$2,50,000",
-        location: "Chicago",
-        image: project_img_3
+      title: "Serenity Suites",
+      price: "$2,50,000",
+      location: "Chicago",
+      image: project_img_3
     },
     {
-        title: "Central Square",
-        price: "$2,50,000",
-        location: "Los Angeles",
-        image: project_img_4
+      title: "Central Square",
+      price: "$2,50,000",
+      location: "Los Angeles",
+      image: project_img_4
     },
     {
-        title: "Vista Verde",
-        price: "$2,50,000",
-        location: "San Francisco",
-        image: project_img_5
+      title: "Vista Verde",
+      price: "$2,50,000",
+      location: "San Francisco",
+      image: project_img_5
     },
     {
-        title: "Serenity Suites",
-        price: "$2,50,000",
-        location: "Chicago",
-        image: project_img_6
+      title: "Serenity Suites",
+      price: "$2,50,000",
+      location: "Chicago",
+      image: project_img_6
     },
+    
+  ];
 
-];
-
-export const testimonialsData = [
+  export const testimonialsData = [
     {
         name: "Donald Jackman",
         title: "Marketing Manager",
